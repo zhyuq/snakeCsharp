@@ -1,0 +1,13 @@
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/bin/Debug/netcoreapp3.1/proj_snake.deps.json
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/bin/Debug/netcoreapp3.1/proj_snake.runtimeconfig.json
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/bin/Debug/netcoreapp3.1/proj_snake.runtimeconfig.dev.json
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/bin/Debug/netcoreapp3.1/proj_snake.dll
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/bin/Debug/netcoreapp3.1/proj_snake.pdb
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.csproj.AssemblyReference.cache
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.AssemblyInfoInputs.cache
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.AssemblyInfo.cs
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.csproj.CoreCompileInputs.cache
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.dll
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.pdb
+/Users/staff/Documents/study/proj_csharp/proj_snake/proj_snake/obj/Debug/netcoreapp3.1/proj_snake.genruntimeconfig.cache
